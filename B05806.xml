@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Severall votes and orders of the House of Peeres against Sir John Maynard ( one of the eleven members, impeached of high treason, on Saturday last, when he was brought to the barre, to answer to his charge. With his plea, and refusall to be tryed, and what further order was made therein. Also His Excellency Sir Thomas Fairfax his conference and promise to the Lord Mayor and aldermen of London, in behalf of the city and whole kingdome, on Friday last, at which time his excellecy and many of his officers dined in London.</title>
+            <author>England and Wales. Parliament. House of Lords.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05806</idno>
+            <idno type="STC">Wing S2814C</idno>
+            <idno type="STC">ESTC R204563</idno>
+            <idno type="EEBO-CITATION">47012650</idno>
+            <idno type="OCLC">ocm 47012650</idno>
+            <idno type="VID">174615</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05806)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174615)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2693:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Severall votes and orders of the House of Peeres against Sir John Maynard ( one of the eleven members, impeached of high treason, on Saturday last, when he was brought to the barre, to answer to his charge. With his plea, and refusall to be tryed, and what further order was made therein. Also His Excellency Sir Thomas Fairfax his conference and promise to the Lord Mayor and aldermen of London, in behalf of the city and whole kingdome, on Friday last, at which time his excellecy and many of his officers dined in London.</title>
+                  <author>England and Wales. Parliament. House of Lords.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. J.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At end: Feb. 4 1647. Imprimatur Gil Mabbot.</note>
+                  <note>Reproduction of original in: University of London. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Maynard, John, --  Sir, 1602-1690.</term>
+               <term>Fairfax, Thomas Fairfax, --  Baron, 1612-1671.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174615:1"/>
+            <p>SEVERALL VOTES and ORDERS of the Houſe of PEERES Againſt Sir <hi>John Maynard</hi> (one of the Eleven Members, Impeached of high Treaſon) on Saturday laſt, when he was brought to the Barre, to anſwer to his charge. WITH His Plea, and refuſall to be tryed, and <hi>what further Order was made therein.</hi> ALSO His Excellency Sir <hi>Thomas Fairfax</hi> his Conference and promiſe to the Lord Mayor and Aldermen of <hi>London,</hi> in behalf of the City and whole Kingdome, on Friday laſt, at which time his Ex<g ref="char:EOLhyphen"/>cellency and many of his Offi<g ref="char:EOLhyphen"/>cers dined in <hi>London.</hi>
+            </p>
+            <p>LONDON, Printed for <hi>R. J.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:174615:2"/>
+            <pb n="1" facs="tcp:174615:2"/>
+            <head>
+               <hi>THE</hi> VOTES and ORDERS <hi>OF THE</hi> LORDS On Saturday laſt, againſt Sir <hi>John Maynard,</hi> when he was brought to the Barre of the Houſe of Peers.</head>
+            <head type="sub">
+               <hi>Die Veneris,</hi> 4 <hi>Feb.</hi> 1647.</head>
+            <p>
+               <hi>IT was Ordered by the Houſe of Peeres, that Sir</hi> John Maynard <hi>(one of the eleven Members of the Houſe of Commons lately impeached of high Treaſon, Crimes, and other Miſdemeanours ſhould be brought to tryal, and anſwer to the charge againſt him on Saturday next, And for that purpoſe, an Order was ſent to the Lieutenant of the Tower, to bring the ſaid Sir</hi> John Maynard <hi>to the Bar of the Lords Houſe, to hear his charge at the time a<g ref="char:EOLhyphen"/>foreſaid.
+<pb n="2" facs="tcp:174615:3"/>And Sir</hi> John <hi>having notice of the ſaid Order, ſent a Letter to the Speaker of the Houſe of Peeres, directed thus:</hi>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>
+                     <hi>To the Right Honourable the Earle of</hi> Mancheſter, <hi>Speaker of the Houſe of Peers,</hi> pro tempore.</head>
+                  <opener>
+                     <salute>My Lord,</salute>
+                  </opener>
+                  <p>HAving received Order to appeare at the Barre of your Houſe to hear the Charg againſt me of high Treaſon, high Crimes, and other Miſdemeanours, which he conceived brought him in queſtion for his life, hee thought good to make his plea why he con<g ref="char:EOLhyphen"/>ceived hee ought not to be tryed before the Lords, but by way of Inditement in the Kings Bench, where he might be tried by his Equals, and pleaded <hi>Magna Charta</hi> and the Pe<g ref="char:EOLhyphen"/>tition of Right, alledging that as he was a freeborn Subject, and lately a Member of the Houſe of Commons he ought not to be tryed by his Peers, &amp;c. Subſcribed,</p>
+                  <closer>
+                     <signed>Jo. Maynard</signed>
+                     <dateline>
+                        <hi>Dated at the Tower the</hi>
+                        <date>4 <hi>of Feb.</hi> 1647.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="3" facs="tcp:174615:3"/>
+            <p> ON Saturday laſt the 5. of February (ac<g ref="char:EOLhyphen"/>cording to the Order before mentio<g ref="char:EOLhyphen"/>ned) Sir <hi>John Maynard</hi> was brought to the Lords Houſe, and after they were ſate he was called in, to hear his Charge and to plead for himſelfe, and when he came to the Barre he carried himſelfe very obſtinatly, refuſing either to hear what was charged againſt him or plead thereunto, and beſides other ſtrange carriages and ſpeeches. He pleaded that hee ought to be tried at the Kings Bench by a Jury of 12 men of his Country, <hi>&amp;c.</hi> Here<g ref="char:EOLhyphen"/>upon he was commanded to withdraw, and divers Members of the Houſe of Commons came up to maintaine the Charge againſt him; and two of the Judges (one of the Kings Bench, and another of the Common Plea then ſitting) were ſent for to declare their o<g ref="char:EOLhyphen"/>pinions in that buſineſſe and aſſiſt their Lordſhips, and after debate thereof Sir <hi>John</hi> was called into the Houſe againe, and ſeveral Votes and Orders paſſed, concerning him to this purpoſe.</p>
+            <p n="1">1 <hi>That the ſaid Sir</hi> John Maynards <hi>Plea, Speeches, and behaviour, was in contempt of that Houſe.</hi>
+            </p>
+            <pb n="4" facs="tcp:174615:4"/>
+            <p n="2">2 <hi>That for his preſent contempts, &amp;c. he ſhould be fined five hundred pounds, to be Eſtreated into the Exchequer.</hi>
+            </p>
+            <p n="3">3 <hi>That he ſhall have foureteen dayes further liberty to plead.</hi>
+            </p>
+            <p n="4">4 <hi>And laſtly, That Houſe Ordered him to ſtand committed to the Tower, whether he was carryed again accordingly.</hi>
+            </p>
+            <div type="part">
+               <head>
+                  <hi>The manner of his Excellency Sir</hi> Tho. Fairfax, <hi>and many of his chiefe Officers enter<g ref="char:EOLhyphen"/>tainment at the Lord Mayors of</hi> Lon<g ref="char:EOLhyphen"/>don, on Friday Feb. 4. 1647.</head>
+               <p>HIs Excellency Sir <hi>Thomas Fair<g ref="char:EOLhyphen"/>fax,</hi> Lieutenant Generall <hi>Crom<g ref="char:EOLhyphen"/>well,</hi> and many other of the Chiefe Officers of the Army were ſolemnly invited by the Lord Mayor of <hi>London</hi> to dinner on Friday laſt the 4 of Fe<g ref="char:EOLhyphen"/>bruary, and about one of the clocke the ſame day His Excellency came
+<pb n="5" facs="tcp:174615:4"/>thither accordingly attended with the Leiutenant Generall and many other of His Officers, There alſo met Him the Speaker of the Houſe of Com<g ref="char:EOLhyphen"/>mons and ſeverall Members of the Houſe of Commons, and ſome Lords.</p>
+               <p>At Dinner the Generall ſat next to the Lord Mayor and demeaned himſelfe with much gravity, giving Civill reſpect unto all.</p>
+               <p>After Dinner the Lord Mayor and ſome of the Aldermen had ſome diſcourſe together for about three quarters of an houre or there about, His Excellency giving them great ſatisfaction of His Good affection towards the City, and His care ſo far as can ſtand with the ſafety of the Ci<g ref="char:EOLhyphen"/>ty and Country to preſerve the whole Kingdom; the ſupernumeraries dis<g ref="char:EOLhyphen"/>banding.
+<pb n="6" facs="tcp:174615:5"/>And He hath promiſed to have a further care to eaſe the People not onely in reſpect of the Souldiery, but other burdens which have layne upon them.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <opener>
+               <dateline>
+                  <date>Feb. 5. 1647.</date>
+               </dateline>
+            </opener>
+            <p>
+               <hi>Imprimatur </hi>
+            </p>
+            <closer>
+               <signed>Gil. Mabbot</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
